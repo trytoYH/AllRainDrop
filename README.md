@@ -7,5 +7,5 @@ Rain prediction model base on U-Net
 최하영,  박현, 김용환
 
 
-## model
+## Model structure
 <img width="874" alt="스크린샷 2023-01-07 오후 7 21 17" src="https://user-images.githubusercontent.com/94563455/211145538-3cc83596-b8f4-4c35-9913-003cd0f187f9.png">
